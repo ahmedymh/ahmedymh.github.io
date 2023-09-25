@@ -59,9 +59,10 @@ main > .tagline {
 }
 
 .icons-social :hover{
+	transition: 1s;
 	color: rgb(255, 145, 0);
 }
 .intro:hover{
-	transition: 2s;
+	transition: 1s;
 	color: rgb(255, 145, 0);
 }
