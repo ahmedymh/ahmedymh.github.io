@@ -66,3 +66,10 @@ main > .tagline {
 	transition: 1s;
 	color: rgb(255, 145, 0);
 }
+.icon-skills{
+	font-size: 3em;
+}
+.icon-skills :hover{
+	transition: 1s;
+	color: rgb(255, 145, 0);
+}
