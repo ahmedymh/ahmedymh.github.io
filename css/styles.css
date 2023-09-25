@@ -29,9 +29,6 @@ html {
 .icons-social i {
 	font-size: 3em;
 }
-
-/* Custom Styles */
-
 main {
 	display: flex;
 	flex-direction: column;
@@ -61,13 +58,10 @@ main > .tagline {
   text-decoration: none;
 }
 
-.devto {
-	margin-bottom: -0.20rem;
+.icons-social :hover{
+	color: rgb(255, 145, 0);
 }
-
-.devto svg {
-	margin-bottom: -0.20rem;
-	margin-left: 0.675rem;;
-	width: 2.65rem;
-	height: 2.65rem;
+.intro:hover{
+	transition: 2s;
+	color: rgb(255, 145, 0);
 }
